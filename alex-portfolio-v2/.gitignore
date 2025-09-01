@@ -14,8 +14,5 @@ Thumbs.db
 # Ignore node_modules (if you're using npm)
 node_modules/
 
-# Ignore build output (if you're using a build tool)
-build/
-dist/
 
 # Add your own custom ignores below

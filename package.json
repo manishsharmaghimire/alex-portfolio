@@ -10,7 +10,8 @@
     "build": "vite build",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist --no-jekyll"
+    "deploy": "gh-pages -d dist --nojekyll"
+
   },
   "dependencies": {
     "@emailjs/browser": "^4.4.1",
